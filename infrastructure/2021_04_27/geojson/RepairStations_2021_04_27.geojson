@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"OBJECTID":1,"type":"airPumpManual"},"geometry":{"type":"Point","coordinates":[-8.4657891,51.896708]}},{"type":"Feature","properties":{"OBJECTID":2,"type":"repairStation"},"geometry":{"type":"Point","coordinates":[-8.337018,51.872867]}}]}
